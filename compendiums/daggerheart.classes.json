@@ -1,0 +1,54 @@
+{
+	"label": "Classes",
+  "mapping": {
+    "description": "system.description"
+  },
+  
+	"entries": [
+		{
+			"id": "Bard",
+			"name": "Bardo",
+			"description": "Bardos são as pessoas mais carismáticas dos reinos. Membros desta classe são mestres do fascínio e se especializam em diversos tipos de performance, como a música, o humor e a contação de histórias. Bardos são ótimos em situações sociais, seja interagindo com um público ou com un indivíduo. Ainda que hajam membros dessa classe com egos inflados, há escolas e guildas onde bardos compartilham laços e conhecimento. Embora sejam os mais capazes de unir pessoas, um bardo de temperamento forte pode dividir um grupo com a mesma facilidade."
+		},
+		{
+			"id": "Ranger",
+			"name": "Caçador",
+			"description": "Caçadores são indivíduos altamente competentes que, a despeito de suas habilidades marciais, raramente emprestam seus talentos a exércitos. Dominando o corpo e com uma profunda compreensão do ambiente selvagem, caçadores são estrategistas perspicazes, perseguindo suas presas com astúcia e paciência. Muitos membros desta classe caçam e lutam ao lado de um companheiro animal com o qual forjaram um poderoso vínculo espiritual. Ao cultivar suas habilidades na natureza, caçadores se tornam peritos na perseguição, tão aptos a capturar oponentes com armadilhas quanto a enfrentá-los diretamente."
+		},
+		{
+			"id": "Druid",
+			"name": "Druida",
+			"description": "Ser um druida é mais que uma ocupação; é uma vocação para aqueles que almejam proteger a natureza e aprender com sua magia. Embora alguém possa subestimar um druida gentil que pratica o trabalho silencioso de cultivar vegetais, druidas que canalizam as forças indomáveis da natureza são uma visão aterrorizante. Muitos cultivam suas habilidades em grupos pequenos, frequentemente conectados por um local ou tradição em específico, mas alguns optam por trabalhar sozinhos. Com anos de estudo e dedicação, druidas podem aprender a se transformar em feras e alterar a natureza."
+		},
+		{
+			"id": "Sorcerer",
+			"name": "Feiticeiro",
+			"description": "Nem todos os usuários inatos de magia decidem aprimorar suas artes, mas aqueles que o fazem podem se tornar poderosos feiticeiros. Esse dom é passado de geração em geração, mesmo que a família o desconheça ou hesite em colocá-lo em prática. As habilidades de um feiticeiro variam de manipulação elemental às artes da ilusão, e podem ir ainda além. Muitos praticantes juntam-se em grupos organizados de acordo com seus talentos. Tornar-se um feiticeiro extraordinário não envolve se tornar mais poderoso, mas aprender a cultivar e controlar o poder que já está em seu âmago. Feitiçaria sem orientação ou disciplina adequada é uma força extremamente perigosa."
+		},
+		{
+			"id": "Guardian",
+			"name": "Guardião",
+			"description": "O guardião representa uma gama de profissões marciais e é mais ligado à sua bússola moral e resiliência inabalável do que aos seus métodos de combate. Ainda que muitos guadiões se juntem a grupos em prol de um país ou de uma causa, é mais provável que eles sigam aqueles poucos com quem realmente se importam, ignorando os demais. Guardiões são conhecidos por lutar e, acima de tudo, defender os seus com notável ferocidade, mesmo quando as chances estão contra eles. Pobres daqueles que causarem mal aos aliados de um guardião, pois membros desta classe respondem à altura."
+		},
+		{
+			"id": "Warrior",
+			"name": "Guerreiro",
+			"description": "Tornar-se um guerreiro requer anos, às vezes uma vida inteira, de treinamento e dedicação ao domínio das armas e da violência. Enquanto muitos que procuram lutar cultivam apenas a força, guerreiros entendem a importância de um corpo e uma mente ágeis, o que os coloca entre os combatentes mais cobiçados dos reinos. Frequentemente, guerreiros encontram emprego em um exército, bando de mercenários ou mesmo uma guarda real, mas seu potencial é desperdiçado em qualquer posição na qual não possam aprimorar e expandir suas habilidades. Guerreiros são conhecidos por terem uma arma favorita, portanto ficar entre um guerreiro e sua lâmina pode ser um erro gravíssimo."
+		},
+		{
+			"id": "Rogue",
+			"name": "Ladino",
+			"description": "Ladinos são malandros, tanto na atitude quanto na prática. Em geral conhecidos como ladrões e mentirosos, os melhores membros desta classe são anônimos para o resto do mundo. Com uma astúcia tão afiada quanto suas lâminas, ladinos manipulam socialmente os oponentes com a mesma facilidade com que arrombam fechaduras, escalam janelas ou atacam furtivamente. Mestres no ofício mágico, eles manipulam as sombras e o movimento, tendo uma ampla gama de ferramentas úteis e mortais em seu repertório. Ladinos costumam estabelecer guildas para encontrar futuros cúmplices, contratar serviços e cultivar suas técnicas secretas, comprovando que existe honra entre ladrões... para aqueles que sabem onde procurar."
+		},
+		{
+			"id": "Wizard",
+			"name": "Mago",
+			"description": "Sejam alunos de uma instituição, sejam autodidatas, magos adquirem e cultivam imenso poder mágico ao longo de anos de aprendizado com uma variedade de ferramentas como ervas, livros, pedras e poções. Alguns magos dedicam a vida a dominar uma escola de magia específica; outros estudam uma grande variedade de disciplinas. Muitos magos são figuras sábias e poderosas nas comunidades onde vivem, aconselhando governantes, fornecendo cura ou remédios e até mesmo liderando conselhos de guerra. Embora todos os magos trabalhem em prol do objetivo de angariar conhecimento mágico, eles frequentemente encontram os maiores conflitos entre seus iguais, visto que a aquisição, proteção e disseminação de segredos poderosos geram debates intensos que já resultaram em inumeráveis mortes."
+		},
+		{
+			"id": "Seraph",
+			"name": "Serafim",
+			"description": "Serafins são guerreiros divinos com poderes curativos imbuídos de um propósito sagrado. Há um grande número de deuses nos planos, e eles escolhem diversos tipos de serafim como seus campeões. O caráter de um serafim tradicionalmente está alinhado ao domínio ou aos objetivos de seu deus, como defender os fracos, vingança, proteger um território ou artefato, ou professar uma fé específica. Alguns serafins se aliam a um exército ou localidade, para satisfação dos governantes, mas outros fazem uma cruzada contra a vaidade do plano mortal. Ser aliado de um serafim é melhor que ser seu inimigo, pois são implacáveis cotra aqueles que ousam desafiar seu propósito."
+		}
+	]
+}
