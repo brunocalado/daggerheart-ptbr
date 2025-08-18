@@ -176,8 +176,8 @@
     },
     {
       "id": "Lean on Me",
-      "name": "Sou Seu Escudo",
-      "description": "Quando um aliado Muito Próximo for sofrer dano, você pode marcar 1 Ponto de Fadiga para prostrar-se no caminho e virar o alvo do ataque no lugar dele. Ao sofrer dano desse ataque, você pode marcar um número qualquer de Pontos de Armadura."
+      "name": "Palavras de Conforto",
+      "description": "Uma vez por descanso longo, quando você consola ou inspira um aliado que falhou em um teste, vocês dois podem recuperar 2 Pontos de Fadiga cada."
     },
     {
       "id": "Earthquake",
@@ -186,8 +186,8 @@
     },
     {
       "id": "Unbreakable",
-      "name": "Armadura Irredutível",
-      "description": "Quando for marcar 1 Ponto de Armadura, role uma quantidade de d6 igual à sua Proficiência. Se algum tirar 6, reduza a gravidade em um limiar sem marcar 1 Ponto de Armadura."
+      "name": "Invencível",
+      "description": "Ao marcar seu último Ponto de Vida, em vez de fazer um movimento de morte, você pode recuperar 1d6 Pontos de Vida. Em seguida, esta carta vai para sua reserva."
     },
     {
       "id": "Wild Surge",
@@ -361,8 +361,8 @@
     },
     {
       "id": "Never Upstaged",
-      "name": "Validação",
-      "description": "Uma vez por descanso, após o teste de um aliado, mas antes das consequências ocorrerem, você pode auxiliá-lo com palavras de apoio. Ao fazer isso, seu aliado pode rolar os dados novamente."
+      "name": "Jamais Esquecido",
+      "description": "Ao marcar 1 ou mais Pontos de Vida devido a um ataque, você pode marcar 1 Ponto de Fadiga para colocar um número de marcadores nesta carta igual ao número de PV marcados. Para cada marcador nesta carta, você recebe um bônus de +5 na rolagem de dano do próximo ataque que você acertar. Em seguida, zere todos os marcadores."
     },
     {
       "id": "Stealth Expertise",
@@ -401,8 +401,8 @@
     },
     {
       "id": "Soothing Speech",
-      "name": "Palavras de Conforto",
-      "description": "Uma vez por descanso longo, quando você consola ou inspira um aliado que falhou em um teste, vocês dois podem recuperar 2 Pontos de Fadiga cada."
+      "name": "Palavras Tranquilizantes",
+      "description": "Durante um descanso curto, ao passar um tempo amparando outro personagem por meio da movimento de repouso tratar ferimentos, recupere 1 Ponto de Vida adicional desse personagem. Ao fazer isso, você também recupera 2 Pontos de Vida."
     },
     {
       "id": "Brace",
@@ -411,8 +411,8 @@
     },
     {
       "id": "Blink Out",
-      "name": "Mexa-se",
-      "description": "Uma vez por descanso, quando uma criatura Corpo a Corpo for causar dano a você, você pode evitar o ataque e sair com segurança do alcance do inimigo."
+      "name": "Translocação",
+      "description": "Faça um teste de conjuração (12). Em um sucesso, gaste 1 Ponto de Esperança para se teleportar a um ponto que você possa ver em alcance Distante. Se houver criaturas voluntárias Muito Próximas, gaste 1 Ponto de Esperança adicional para cada criatura que quiser levar consigo."
     },
     {
       "id": "Book of Grynn",
@@ -446,8 +446,8 @@
     },
     {
       "id": "Full Surge",
-      "name": "Explosão de Adrenalina",
-      "description": "Uma vez por cena, gaste 1 Ponto de Medo para recuperar 2 Pontos de Vida e 2 Pontos de Fadiga."
+      "name": "Testar os Limites",
+      "description": "Uma vez por descanso longo, marque 3 Pontos de Fadiga para testar os limites de seu corpo. Você recebe um bônus de +2 em todos os atributos até seu próximo descanso."
     },
     {
       "id": "Mending Touch",
@@ -531,8 +531,8 @@
     },
     {
       "id": "Invigoration",
-      "name": "Novo Fôlego",
-      "description": "Uma vez por descanso, ao acertar um ataque contra um adversário, você pode recuperar 1 Ponto de Vida ou 3 Pontos de Fadiga. Em um sucesso com Esperança, você também recupera 1 PV ou 3 PE de um aliado Próximo."
+      "name": "Revigorar",
+      "description": "Após você ou um aliado Próximo usar uma habilidade com limite de uso (como uma vez por descanso ou uma vez por sessão), você pode gastar uma quantidade qualquer de Esperança e rolar um número equivalente de d6. Se tirar 6 em qualquer dado, a habilidade pode ser usada novamente."
     },
     {
       "id": "Inevitable",
@@ -566,8 +566,8 @@
     },
     {
       "id": "Cloaking Blast",
-      "name": "Aura Defensora",
-      "description": "Marque 1 Ponto de Fadiga para conjurar uma aura protetora sobre um alvo Muito Próximo. Quando o alvo marca 1 Ponto de Armadura, ele reduz a gravidade do ataque em um limiar adicional. Se este feitiço fizer uma criatura que sofreria dano não marcar Pontos de Vida, o efeito termina. Você pode manter a Aura Defensora apenas sobre uma criatura por vez."
+      "name": "Ocultação",
+      "description": "Ao ter sucesso em um teste de conjuração para conjurar um feitiço diferente, você pode gastar 1 Ponto de Esperança para ficar Oculto. Enquanto estiver Oculto, quando um adversário se movimentar para um lugar de onde normalmente veria você, ele não pode vê-lo se você estiver parado. Ao entrar ou se movimentar dentro da linha de visão de um adversário, ou ao atacar, você deixa de estar Oculto."
     },
     {
       "id": "Words of Discord",
@@ -666,8 +666,8 @@
     },
     {
       "id": "Second Wind",
-      "name": "Vitalidade",
-      "description": "Ao escolher esta carta, receba dois destes benefícios permanentemente: 1 PF adicional; 1 PV adicional; Bônus de +2 em seus limiares de dano. Em seguida, coloque esta carta na sua reserva permanentemente."
+      "name": "Novo Fôlego",
+      "description": "Uma vez por descanso, ao acertar um ataque contra um adversário, você pode recuperar 1 Ponto de Vida ou 3 Pontos de Fadiga. Em um sucesso com Esperança, você também recupera 1 Ponto de Vida ou 3 Pontos de Fadiga de um aliado Próximo."
     },
     {
       "id": "Book of Homet",
@@ -711,8 +711,8 @@
     },
     {
       "id": "Reassurance",
-      "name": "Altivez",
-      "description": "Receba um bônus igual à sua Proficiência no seu limiar grave. Ao marcar 1 ou mais PV devido a um ataque, recupere 1 Ponto de Fadiga."
+      "name": "Validação",
+      "description": "Uma vez por descanso, após o teste de um aliado, mas antes das consequências ocorrerem, você pode auxiliá-lo com palavras de apoio. Ao fazer isso, seu aliado pode rolar os dados novamente."
     },
     {
       "id": "Ferocity",
@@ -746,8 +746,8 @@
     },
     {
       "id": "Encore",
-      "name": "Revigorar",
-      "description": "Após você ou um aliado Próximo usar uma habilidade com limite de uso (como uma vez por descanso ou uma vez por sessão), você pode gastar uma quantidade qualquer de Esperança e rolar um número equivalente de d6. Se tirar 6 em qualquer dado, a habilidade pode ser usada novamente."
+      "name": "Em Dobro",
+      "description": "Quando um aliado Próximo causa dano a um adversário, você pode fazer um teste de conjuração contra esse mesmo alvo. Em um sucesso, você causa o mesmo dano que seu aliado causou. Se você rolar um sucesso com Medo, coloque esta carta na reserva."
     },
     {
       "id": "Bare Bones",
@@ -786,8 +786,8 @@
     },
     {
       "id": "Rise Up",
-      "name": "Invencível",
-      "description": "Ao marcar seu último Ponto de Vida, em vez de fazer um movimento de morte, você pode recuperar 1d6 Pontos de Vida. Em seguida, esta carta vai para sua reserva."
+      "name": "Altivez",
+      "description": "Receba um bônus igual à sua Proficiência no seu limiar grave. Ao marcar 1 ou mais PV devido a um ataque, recupere 1 Ponto de Fadiga."
     },
     {
       "id": "Thorn Skin",
@@ -836,8 +836,8 @@
     },
     {
       "id": "Unyielding Armor",
-      "name": "Bastião",
-      "description": "Quando um aliado Próximo falhar em um teste, você pode gastar 2 Pontos de Esperança para permitir que ele role novamente o Dado de Medo ou de Esperança."
+      "name": "Armadura Irredutível",
+      "description": "Quando for marcar 1 Ponto de Armadura, role uma quantidade de d6 igual à sua Proficiência. Se algum tirar 6, reduza a gravidade em um limiar sem marcar 1 Ponto de Armadura."
     },
     {
       "id": "Vitality",
@@ -846,8 +846,8 @@
     },
     {
       "id": "Support Tank",
-      "name": "Armadura Corporal",
-      "description": "Equanto não equipar uma armadura, você tem Armadura base igual a 3 + sua Força e usa estes limiares de dano base: 1º patamar: 9/19; 2º patamar: 11/24; 3º patamar: 13/31; 4º patamar: 15/38."
+      "name": "Bastião",
+      "description": "Quando um aliado Próximo falhar em um teste, você pode gastar 2 Pontos de Esperança para permitir que ele role novamente o Dado de Medo ou de Esperança."
     },
     {
       "id": "Voice of Reason",
@@ -936,8 +936,8 @@
     },
     {
       "id": "Forceful Push",
-      "name": "Translocação",
-      "description": "Faça um teste de conjuração (12). Em um sucesso, gaste 1 Ponto de Esperança para se teleportar a um ponto que você possa ver em alcance Distante. Se houver criaturas voluntárias Muito Próximas, gaste 1 Ponto de Esperança adicional para cada criatura que quiser levar consigo."
+      "name": "Imposição",
+      "description": "Ataque um alvo Corpo a Corpo com sua arma principal. Em um sucesso, você causa dano e o empurra para um ponto em alcance Próximo. Em um sucesso com Esperança, acrescente d6 à rolagem de dano. Além disso, gaste 1 Ponto de Esperança para deixá-lo temporariamente Vulnerável."
     },
     {
       "id": "On the Brink",
