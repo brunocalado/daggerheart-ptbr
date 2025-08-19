@@ -7,7 +7,7 @@
     {
       "id": "Forager",
       "name": "Coletor",
-      "description": "Como um movimento de repouso adicional que você pode escolher, role 1d6 para descobrir o que você coleta. Colabore com o mestre para descrever esse item e adicione-o ao seu inventário como um consumível. Seu grupo pode carregar no máximo cinco consumíveis coletados por vez."
+      "description": "Como um movimento de repouso adicional que você pode escolher, role [[/r 1d6]] para descobrir o que você coleta. Colabore com o mestre para descrever esse item e adicione-o ao seu inventário como um consumível. Seu grupo pode carregar no máximo cinco consumíveis coletados por vez. <br><br>1. Um alimento único (recupera 2 Pontos de Fadiga); <br>2. Uma bela relíquia (receba 2 Pontos de Esperança); <br>3. Uma runa arcana (bônus de +2 em um teste de conjuração); <br>4. Um frasco curativo (recupera 2 PV); <br>5. Um talismã da sorte (role qualquer dado novamente); <br>6. Escolha uma das opções acima."
     },
     {
       "id": "Chain Lightning",

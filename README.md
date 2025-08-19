@@ -27,6 +27,9 @@ Pesquise **Daggerheart - Tradução** em módulos. Depois instale.
 Vá em **módulos** e coloque o link abaixo. 
 Link: https://raw.githubusercontent.com/brunocalado/daggerheart-ptbr/main/module.json
 
+# Problemas na Tradução
+Se encontrar problemas na tradução informe qual é o problema nesse [link](https://github.com/brunocalado/daggerheart-ptbr/issues).
+
 # Alterações
 Você pode verificar por mudanças em [MUDANÇAS](CHANGELOG.md)
 
