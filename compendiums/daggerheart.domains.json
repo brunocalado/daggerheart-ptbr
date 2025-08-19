@@ -27,7 +27,7 @@
     {
       "id": "Book of Tyfar",
       "name": "Livro de Tyfar",
-      "description": "Chama Selvagem: faça um teste de conjuração contra até três adversários Corpo a Corpo. Chamas irrompem de sua mão. Alvos atingidos sofrem 2d6 de dano mágico e marcam 1 Ponto de Fadiga. Mão Arcana: você conjura uma mão mágica idêntica à sua em força e tamanho num ponto em alcance Distante. Névoa misteriosa: faça um teste de conjuração (13) para conjurar uma névoa densa que fica em uma área estática dentro do alcance Muito Próximo. A neblina deixa essa área e tudo o que há nela fortemente obscurecido."
+      "description": "Chama Selvagem: faça um teste de conjuração contra até três adversários Corpo a Corpo. Chamas irrompem de sua mão. Alvos atingidos sofrem 2d6 de dano mágico e marcam 1 Ponto de Fadiga. <br><br>Mão Arcana: você conjura uma mão mágica idêntica à sua em força e tamanho num ponto em alcance Distante. <br><br>Névoa misteriosa: faça um teste de conjuração (13) para conjurar uma névoa densa que fica em uma área estática dentro do alcance Muito Próximo. A neblina deixa essa área e tudo o que há nela fortemente obscurecido."
     },
     {
       "id": "Preservation Blast",
@@ -86,8 +86,8 @@
     },
     {
       "id": "Scramble",
-      "name": "Amontoar",
-      "description": "Faça um teste de Agilidade contra todos os alvos Próximos. Gaste 1 Ponto de Esperança para mover os alvos que você acerta, bem como quaisquer aliados Próximos voluntários, para outro ponto em alcance Próximo."
+      "name": "Mexa-se",
+      "description": "Uma vez por descanso, quando uma criatura Corpo a Corpo for causar dano a você, você pode evitar o ataque e sair com segurança do alcance do inimigo."
     },
     {
       "id": "Eclipse",
@@ -121,8 +121,8 @@
     },
     {
       "id": "Wrangle",
-      "name": "Imposição",
-      "description": "Ataque um alvo Corpo a Corpo com sua arma principal. Em um sucesso, você causa dano e o empurra para um ponto em alcance Próximo. Em um sucesso com Esperança, acrescente 1d6 à rolagem de dano. Além disso, gaste 1 Ponto de Esperança para deixá-lo temporariamente Vulnerável."
+      "name": "Amontoar",
+      "description": "Faça um teste de Agilidade contra todos os alvos Próximos. Gaste 1 Ponto de Esperança para mover os alvos que você acerta, bem como quaisquer aliados Próximos voluntários, para outro ponto em alcance Próximo."
     },
     {
       "id": "Untouchable",
@@ -802,7 +802,7 @@
     {
       "id": "Book of Exota",
       "name": "Livro de Ecsota",
-      "description": "Criar Construto: gaste 1 Ponto de Esperança para escolher um grupo de objetos ao seu redor e, a partir deles, crie um construto animado que obedece a comandos básicos. Faça um teste de conjuração para mandá-lo agir. Quando necessário, ele compartilha sua Evasão e atributos, e os ataques dele causam 2d10+3 de dano físico. Você pode manter apenas um construto por vez, e ele se desfaz ao sofrer qualquer quantidade de dano. Repudiar: você pode interromper um efeito mágico em andamento. Faça um teste de conjuração usando seu atributo de conjuração. Em um sucesso, uma vez por descanso, o efeito cessa e quaisquer consequências são evitadas."
+      "description": "Criar Construto: gaste 1 Ponto de Esperança para escolher um grupo de objetos ao seu redor e, a partir deles, crie um construto animado que obedece a comandos básicos. Faça um teste de conjuração para mandá-lo agir. Quando necessário, ele compartilha sua Evasão e atributos, e os ataques dele causam 2d10+3 de dano físico. Você pode manter apenas um construto por vez, e ele se desfaz ao sofrer qualquer quantidade de dano. <br><br>Repudiar: você pode interromper um efeito mágico em andamento. Faça um teste de conjuração usando seu atributo de conjuração. Em um sucesso, uma vez por descanso, o efeito cessa e quaisquer consequências são evitadas."
     },
     {
       "id": "Rousing Strike",

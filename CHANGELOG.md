@@ -1,3 +1,6 @@
+1.0.4
+- várias cartas de domínios arrumadas
+
 1.0.3
 - várias cartas de domínios arrumadas
 
