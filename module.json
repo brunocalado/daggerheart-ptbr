@@ -2,7 +2,7 @@
   "id": "daggerheart-ptbr",
   "title": "Daggerheart - Tradução para Português (Brasil)",
   "description": "<p>Adiciona o idioma Português (Brasil) para o sistema de jogo Daggerheart.</p>",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -21,7 +21,13 @@
         "type": "module",
         "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
         "compatibility": {}
-      }
+      },
+      {
+        "id": "pt-BR",
+        "type": "module",
+        "manifest": "https://github.com/mclemente/fvtt-ptbr-core-translation/releases/latest/download/module.json",
+        "compatibility": {}
+      }      
     ]
   },
   "authors": [

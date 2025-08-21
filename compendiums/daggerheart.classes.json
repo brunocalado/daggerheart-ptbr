@@ -58,7 +58,7 @@
     {
       "id": "Attack Of Opportunity",
       "name": "Ataque de Oportunidade",
-      "description": "Se um adversário Corpo a Corpo tentar sair desse alcance, faça urn teste de reação usando um atributo à sua escolha contra a Dificuldade dele. Em um sucesso, escolha um efeito; em um sucesso crítico, escolha dois: Ele não pode sair de onde está; Você causa dano a ele igual ao dano de sua arma principal; Você se movimenta com ele."
+      "description": "Se um adversário Corpo a Corpo tentar sair desse alcance, faça urn teste de reação usando um atributo à sua escolha contra a Dificuldade dele. Em um sucesso, escolha um efeito; em um sucesso crítico, escolha dois: <br><br>Ele não pode sair de onde está; <br>Você causa dano a ele igual ao dano de sua arma principal; <br>Você se movimenta com ele."
     },
     {
       "id": "Cloaked",
@@ -68,7 +68,7 @@
     {
       "id": "Sneak Attack",
       "name": "Ataque Furtivo",
-      "description": "Quando acertar um ataque enquanto estiver Oculto, ou enquanto um aliado estiver Corpo a Corpo ao seu alvo, some um número de d6 igual ao seu patamar à rolagem de dano."
+      "description": "Quando acertar um ataque enquanto estiver Oculto, ou enquanto um aliado estiver Corpo a Corpo ao seu alvo, some um número de d6 igual ao seu patamar à rolagem de dano.<br><br>1º nível → 1º patamar <br>2º ao 4º nível → 2º patamar <br>5º ao 7º nível → 3º patamar <br>8º ao 10º nível → 4º patamar"
     },
     {
       "id": "Strange Patterns",
@@ -93,7 +93,7 @@
     {
       "id": "Channel Raw Power",
       "name": "Canalizar Poder Bruto",
-      "description": "Uma vez por descanso longo, você pode colocar uma carta de domínio de sua mão na reserva e escolher entre: Receber Esperança igual ao nível da carta, ou aprimorar um feitiço que cause dano, recebendo um bônus na rolagem de dano igual ao dobro do nível da carta."
+      "description": "Uma vez por descanso longo, você pode colocar uma carta de domínio de sua mão na reserva e escolher entre: <br><br>Receber Esperança igual ao nível da carta, <br>ou aprimorar um feitiço que cause dano, recebendo um bônus na rolagem de dano igual ao dobro do nível da carta."
     },
     {
       "id": "Beastform",
@@ -103,7 +103,7 @@
     {
       "id": "Unstoppable",
       "name": "Determinação",
-      "description": "Uma vez por descanso longo, você pode ficar Determinado, recebendo um Dado de Determinação. No 1º nível, seu Dado de Determinação é d4. Coloque-o sobre o espaço apropriado na ficha de personagem, começando com o número 1 voltado para cima. Após fazer uma rolagem de dano que tira 1 ou mais Pontos de Vida de um alvo, aumente o valor do Dado de Determinação em +1. No momento em que o dado for ultrapassar seu valor máximo, ou quando a cena acabar, remova-o e encerre sua Determinação. Enquanto estiver determinado, você recebe os seguintes benefícios: Você reduz a gravidade do dano físico em uma categoria; Você soma o valor atual do Dado de Determinação às suas rolagens de dano; Você não pode ser Imobilizado ou ficar Vulnerável."
+      "description": "Uma vez por descanso longo, você pode ficar Determinado, recebendo um Dado de Determinação. No 1º nível, seu Dado de Determinação é d4. Coloque-o sobre o espaço apropriado na ficha de personagem, começando com o número 1 voltado para cima. Após fazer uma rolagem de dano que tira 1 ou mais Pontos de Vida de um alvo, aumente o valor do Dado de Determinação em +1. No momento em que o dado for ultrapassar seu valor máximo, ou quando a cena acabar, remova-o e encerre sua Determinação. Enquanto estiver determinado, você recebe os seguintes benefícios: <br><br>Você reduz a gravidade do dano físico em uma categoria; <br>Você soma o valor atual do Dado de Determinação às suas rolagens de dano; <br>Você não pode ser Imobilizado ou ficar Vulnerável."
     },
     {
       "id": "Rally",
@@ -168,7 +168,7 @@
     {
       "id": "Ranger's Focus",
       "name": "Marca da Presa",
-      "description": "Gaste 1 Ponto de Esperança e ataque um alvo. Se acertar, cause o dano normal e Marque o alvo do ataque temporariamente. Até o efeito desta habilidade acabar ou até você Marcar outra criatura, receba os seguintes benefícios contra o alvo Marcado: Você sabe precisamente em que direção ele está; Quando causar dano a esse alvo, ele deve marcar 1 Ponto de Fadiga; Quando erra um ataque contra ele, você pode encerrar sua Marca da Presa para rolar seus Dados de Dualidade novamente."
+      "description": "Gaste 1 Ponto de Esperança e ataque um alvo. Se acertar, cause o dano normal e Marque o alvo do ataque temporariamente. Até o efeito desta habilidade acabar ou até você Marcar outra criatura, receba os seguintes benefícios contra o alvo Marcado: <br><br>Você sabe precisamente em que direção ele está; <br>Quando causar dano a esse alvo, ele deve marcar 1 Ponto de Fadiga; <br>Quando erra um ataque contra ele, você pode encerrar sua Marca da Presa para rolar seus Dados de Dualidade novamente."
     },
     {
       "id": "No Mercy",

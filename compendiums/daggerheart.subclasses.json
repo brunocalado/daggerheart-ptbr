@@ -272,7 +272,7 @@
     {
       "id": "Elementalist",
       "name": "Elementalista",
-      "description": "Seja um elementalista para canalizar magia bruta e moldá-la na forma de um elemento específico."
+      "description": "Elementalista: escolha um dos seguintes elementos na criação de personagem: água, ar, fogo, relâmpago, terra. <br>Você pode moldar esse elemento para causar efeitos inofensivos. Além disso, ao gastar 1 Ponto de Esperança e descrever como seu controle sobre esse elemento ajuda em um teste que você esteja prestes a fazer, você recebe um bônus de +2 nesse teste ou um bônus de +3 na rolagem de dano."
     },
     {
       "id": "Rise to the Challenge",
