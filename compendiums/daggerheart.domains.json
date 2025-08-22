@@ -1,5 +1,26 @@
 {
   "label": "Domínios",
+  "folders": {
+    "Level 1": "Nível 1",
+    "Arcana": "Arcano",
+    "Level 2": "Nível 2",
+    "Level 3": "Nível 3",
+    "Level 4": "Nível 4",
+    "Level 5": "Nível 5",
+    "Level 6": "Nível 6",
+    "Level 7": "Nível 7",
+    "Level 8": "Nível 8",
+    "Level 9": "Nível 9",
+    "Blade": "Lâmina",
+    "Bone": "Falange",
+    "Codex": "Códice",
+    "Grace": "Graça",
+    "Midnight": "Meia-noite",
+    "Level 10": "Nível 10",
+    "Sage": "Sabedoria",
+    "Splendor": "Esplendor",
+    "Valor": "Valor"
+  },  
   "mapping": {
     "description": "system.description"
   },

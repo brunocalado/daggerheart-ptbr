@@ -1,5 +1,8 @@
 {
   "label": "Comunidades",
+  "folders": {
+    "Community Features": "Características de Comunidade"
+  },  
   "mapping": {
     "description": "system.description"
   },

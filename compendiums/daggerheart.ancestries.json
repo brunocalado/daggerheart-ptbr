@@ -1,5 +1,8 @@
 {
   "label": "Ancestralidades",
+  "folders": {
+    "Ancestry Features": "Características de Ancestralidade"
+  },  
   "mapping": {
     "description": "system.description"
   },

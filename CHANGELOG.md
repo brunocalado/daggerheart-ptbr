@@ -1,3 +1,6 @@
+1.0.6
+- pastas traduzidas
+
 1.0.5
 - subclasses atualizadas
 

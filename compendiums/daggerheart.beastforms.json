@@ -1,6 +1,12 @@
-{
-  
+{  
   "label": "Forma de Fera",
+  "folders": {
+    "Tier 3": "Patamar 3",
+    "Tier 2": "Patamar 2",
+    "Tier 4": "Patamar 4",
+    "Tier 1": "Patamar 1",
+    "Beastform Features": "Características de Forma de Fera"
+  },  
   "mapping": {
     "examples": "system.examples",
     "description": "system.description"    
