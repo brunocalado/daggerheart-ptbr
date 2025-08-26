@@ -1,3 +1,6 @@
+1.0.9
+- srd
+
 1.0.8
 - docs
 - tradução de pastas
