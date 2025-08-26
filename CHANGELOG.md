@@ -1,3 +1,6 @@
+1.0.7
+- pontos de armadura mudados para pa
+
 1.0.6
 - pastas traduzidas
 
