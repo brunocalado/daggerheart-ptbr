@@ -7,7 +7,7 @@ Esse módulo aplica a tradução para o sistema Daggerheart.
   <tr>
     <th>
       <p align="center">
-        <img width="700" src="docs/preview.webp">
+        <img width="800" src="docs/preview.webp">
       </p>
     </th>
   </tr>

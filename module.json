@@ -2,7 +2,7 @@
   "id": "daggerheart-ptbr",
   "title": "Daggerheart - Tradução para Português (Brasil)",
   "description": "<p>Adiciona o idioma Português (Brasil) para o sistema de jogo Daggerheart.</p>",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -47,6 +47,16 @@
       "path": "lang/pt-BR.json"
     }
   ],
+  "media": [
+    {
+      "type": "setup",
+      "url": "modules/daggerheart-ptbr/assets/dh-thumb.webp",
+      "loop": false
+    }
+  ],  
+
+  "styles": ["css/pause.css"],
+  
   "url": "https://github.com/brunocalado/daggerheart-ptbr",
   "manifest": "https://raw.githubusercontent.com/brunocalado/daggerheart-ptbr/main/module.json",
   "download": "https://codeload.github.com/brunocalado/daggerheart-ptbr/zip/main"

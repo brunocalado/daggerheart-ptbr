@@ -1,5 +1,16 @@
 {
   "label": "Armas",
+  "folders": {
+    "Tier 1": "Patamar 1",
+    "Combat Wheelchairs": "Cadeiras de Roda de Combate",
+    "Secondary Weapons": "Armas Secundárias",
+    "Tier 3": "Patamar 3",
+    "Tier 4": "Patamar 4",
+    "Tier 2": "Patamar 2",
+    "Magical Weapons": "Armas Mágicas",
+    "Physical Weapons": "Armas Físicas",
+    "Primary Weapons": "Armas Primárias"
+  },  
   "mapping": {
     "description": "system.description"
   },

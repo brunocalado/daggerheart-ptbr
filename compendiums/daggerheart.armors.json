@@ -1,5 +1,12 @@
 {
   "label": "Armaduras",
+  "folders": {
+    "Tier 4": "Patamar 4",
+    "Tier 1": "Patamar 1",
+    "Tier 2": "Patamar 2",
+    "Tier 3": "Patamar 3",
+    "Special": "Especial"
+  },  
   "mapping": {
     "description": "system.description"
   },

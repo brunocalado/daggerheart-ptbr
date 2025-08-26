@@ -1,3 +1,11 @@
+1.0.8
+- docs
+- tradução de pastas
+- script fix
+- pause logo
+- logo media modulo
+- adversário e ambiente tradução basica
+
 1.0.7
 - pontos de armadura mudados para pa
 
